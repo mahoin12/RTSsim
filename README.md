@@ -2,7 +2,7 @@
 
 This is my first Game Developer job assignment.
 
-What they want from me in 6 days;
+What they wanted from me in 6 days;
 
 -A 2-dimensional "Tile System" should be created by using the parameters (the length of 1 side of the square land, the length of 1 side of the square tiles) to be given by the user.
 
