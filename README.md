@@ -2,7 +2,7 @@
 
 ##This is my first Game Developer job assignment.
 
-##Things they want me to do in 6 days in June 2022;;
+##Things they want me to do in 6 days in June 2022;
 
 ```yaml
 -A 2-dimensional "Tile System" should be created by using the parameters (the length of 1 side of the square land, the length of
